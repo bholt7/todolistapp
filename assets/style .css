@@ -1,0 +1,29 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  text-align: center;
+}
+nav {
+  display: flex;
+  background-color: maroon;
+  border: 2px solid black;
+  padding: 1em;
+}
+
+h2 {
+  margin-left: 80vh;
+  float: right;
+  color: goldenrod;
+}
+
+img {
+  justify-content: start;
+}
+
+form {
+  display: inline-block;
+  margin: 5vh;
+}
