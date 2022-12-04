@@ -13,7 +13,7 @@ nav {
   padding: 1em;
 }
 
-h2 {
+h1 {
   margin-left: 80vh;
   float: right;
   color: goldenrod;
@@ -26,4 +26,18 @@ img {
 form {
   display: inline-block;
   margin: 5vh;
+}
+
+button {
+  border-radius: 20px;
+  width: 100px;
+  color: white;
+  background-color: aqua;
+}
+
+.task-list {
+  color: brown;
+  text-align: center;
+  font-size: 20px;
+  margin-top: 20px;
 }
